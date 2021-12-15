@@ -1,0 +1,56 @@
+[
+    {
+      "id":1,
+      "username": "tayyab",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":2,
+      "username": "kamran",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":3,
+      "username": "zaman",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":4,
+      "username": "usman",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":5,
+      "username": "hanzla",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":6,
+      "username": "zain",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":7,
+      "username": "ishaq",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":8,
+      "username": "hamza",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    },
+    {
+      "id":9,
+      "username": "zia",
+      "password": "123456",
+      "address" : "Rawalpindi"
+    }
+  ]
